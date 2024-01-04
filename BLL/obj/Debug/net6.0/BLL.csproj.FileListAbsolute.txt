@@ -1,0 +1,61 @@
+C:\Users\andri\OneDrive\Desktop\EnglishApp\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\andri\OneDrive\Desktop\EnglishApp\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\andri\OneDrive\Desktop\EnglishApp\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\OneDrive\Desktop\EnglishApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Desktop\EnglishApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Desktop\EnglishApp\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Desktop\EnglishApp\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\andri\OneDrive\Desktop\EnglishApp\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\BLL\obj\Debug\net6.0\BLL.sourcelink.json
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\andri\OneDrive\Desktop\API\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\andri\OneDrive\Desktop\API\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\andri\OneDrive\Desktop\API\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\andri\OneDrive\Desktop\API\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Desktop\API\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\OneDrive\Desktop\API\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Desktop\API\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Desktop\API\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Desktop\API\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\andri\OneDrive\Desktop\API\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\andri\OneDrive\Desktop\API\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\andri\OneDrive\Desktop\API\BLL\obj\Debug\net6.0\ref\BLL.dll

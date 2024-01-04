@@ -1,0 +1,476 @@
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\appsettings.json
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.exe
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.deps.json
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.runtimeconfig.json
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.pdb
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.EnglishApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.build.EnglishApp.props
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EnglishApp.props
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EnglishApp.props
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\scopedcss\bundle\EnglishApp.styles.css
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.csproj.CopyComplete
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\refint\EnglishApp.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.pdb
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.genruntimeconfig.cache
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\obj\Debug\net6.0\ref\EnglishApp.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\BLL.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\BLL.pdb
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\andri\OneDrive\Desktop\EnglishApp\EnglishApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.exe
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.deps.json
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.runtimeconfig.json
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.pdb
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\BLL.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\bin\Debug\net6.0\BLL.pdb
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.csproj.AssemblyReference.cache
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.AssemblyInfoInputs.cache
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.AssemblyInfo.cs
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.EnglishApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.build.EnglishApp.props
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EnglishApp.props
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EnglishApp.props
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\scopedcss\bundle\EnglishApp.styles.css
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.csproj.CopyComplete
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\refint\EnglishApp.dll
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.pdb
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.genruntimeconfig.cache
+C:\Users\Andrii Derlytsia\Desktop\Duplom\EnglishApp\EnglishApp\obj\Debug\net6.0\ref\EnglishApp.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.exe
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.deps.json
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.runtimeconfig.json
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.pdb
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\BLL.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\bin\Debug\net6.0\BLL.pdb
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.csproj.AssemblyReference.cache
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.AssemblyInfoInputs.cache
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.AssemblyInfo.cs
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.EnglishApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.build.EnglishApp.props
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EnglishApp.props
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EnglishApp.props
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\scopedcss\bundle\EnglishApp.styles.css
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.csproj.CopyComplete
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\refint\EnglishApp.dll
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.pdb
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.genruntimeconfig.cache
+C:\Users\Andrii Derlytsia\Desktop\GitTest2\EnglishApp\EnglishApp\obj\Debug\net6.0\ref\EnglishApp.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\appsettings.json
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.exe
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.deps.json
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.runtimeconfig.json
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\EnglishApp.pdb
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\BLL.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\bin\Debug\net6.0\BLL.pdb
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.sourcelink.json
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.EnglishApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.build.EnglishApp.props
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EnglishApp.props
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EnglishApp.props
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\scopedcss\bundle\EnglishApp.styles.css
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.csproj.CopyComplete
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\refint\EnglishApp.dll
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.pdb
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\EnglishApp.genruntimeconfig.cache
+C:\Users\andri\OneDrive\Desktop\Project\EnglishApp\EnglishApp\obj\Debug\net6.0\ref\EnglishApp.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\appsettings.json
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\EnglishApp.exe
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\EnglishApp.deps.json
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\EnglishApp.runtimeconfig.json
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\EnglishApp.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\EnglishApp.pdb
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\BLL.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\bin\Debug\net6.0\BLL.pdb
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\EnglishApp.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\EnglishApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\EnglishApp.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\EnglishApp.AssemblyInfo.cs
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\EnglishApp.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\EnglishApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\EnglishApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.EnglishApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.build.EnglishApp.props
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EnglishApp.props
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EnglishApp.props
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\scopedcss\bundle\EnglishApp.styles.css
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\EnglishApp.csproj.CopyComplete
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\EnglishApp.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\refint\EnglishApp.dll
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\EnglishApp.pdb
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\EnglishApp.genruntimeconfig.cache
+C:\Users\andri\OneDrive\Desktop\API\EnglishApp\obj\Debug\net6.0\ref\EnglishApp.dll
