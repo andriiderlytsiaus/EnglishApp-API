@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ybNaMGIGigRPBzoQi93uuP3g/0gND90nAtDNk0P4CW2It6YxPQukRnnGrcENqwaJF1IP0qIcV01b+l7Vb+XmQw==",
+  "dgSpecHash": "DqEFtoWuAV7KGCApPfP4b7WfW+LwMAygFeiwPa8MG0EvGQW1cAlumNAlb+KAdjTOmas/Mcfm/DhIXiFJpJs8pA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andri\\OneDrive\\Desktop\\API\\EnglishApp\\EnglishApp.csproj",
+  "projectFilePath": "C:\\Users\\andri\\OneDrive\\Desktop\\ApiTest\\EnglishApp-API\\EnglishApp\\EnglishApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andri\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\andri\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

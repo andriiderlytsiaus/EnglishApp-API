@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1u1N5uhY4uRjMjsJMK7yUz+2HyYBQ8YQ+7YOmcRRlGO/ULgeXqtZAIpA0WYqNiwcAbvo1YYM1QLDDOx/8TWMqA==",
+  "dgSpecHash": "6vw84annGdHh3jF0oamL/lJLl5zzSMZ19Fq7ORkdCm3zZZZGexi/1CYLY5aKhynwHY6vTaJp/34HzEhy4usVEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andri\\OneDrive\\Desktop\\API\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Users\\andri\\OneDrive\\Desktop\\ApiTest\\EnglishApp-API\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andri\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
