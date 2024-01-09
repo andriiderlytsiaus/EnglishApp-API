@@ -24,6 +24,11 @@ namespace EnglishApp.Controllers
         {
             return Ok(_lessonRepository.GetLessons());
         }
+        [HttpGet("/test")]
+        public string GetTest()
+        {
+            return "test";
+        }
         [HttpGet("/TopRatedLessons")]
         public IActionResult TopRatedLessons()
         {
