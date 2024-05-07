@@ -50,7 +50,7 @@ namespace EnglishApp.Controllers
                 ModelState.AddModelError("", "Wrong password");
                 return StatusCode(422, ModelState);
             }
-            return Ok(person.Id);
+            return Ok(person);
         }
 
             [HttpPost]
