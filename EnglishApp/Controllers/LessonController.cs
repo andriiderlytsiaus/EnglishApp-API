@@ -85,7 +85,6 @@ namespace EnglishApp.Controllers
             lesson.Keywords = lessonInfoDto.Keywords;
             return Ok(_lessonRepository.Save());
         }
-
             [HttpPost]
         public IActionResult CreateLesson([FromBody] LessonDto lessonDto)
         {
@@ -107,7 +106,6 @@ namespace EnglishApp.Controllers
                 return StatusCode(422, ModelState);
             }
             var transcriptItems = LessonService.GetTranscript(lesson.YouTubeVideoId);
-
             foreach(var transcriptItem in transcriptItems)
             {
                 lesson.TranscriptLines.Add(new TranscriptLine()
@@ -124,7 +122,6 @@ namespace EnglishApp.Controllers
                 return StatusCode(500, ModelState);
             }
             return Ok(lesson.Id);
-
         }
         [HttpDelete("id")]
         public IActionResult DeleteSavedWord(int id)

@@ -18,7 +18,6 @@ namespace EnglishApp.Controllers
             _userRepository  = userRepository;
             _mapper = mapper;
         }
-
         [HttpGet]
         public IActionResult GetUsers()
         {
@@ -52,7 +51,6 @@ namespace EnglishApp.Controllers
             }
             return Ok(person);
         }
-
             [HttpPost]
         public IActionResult CreateUser([FromBody] UserDto userDto) {
             if (userDto == null)

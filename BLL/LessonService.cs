@@ -17,8 +17,6 @@ namespace BLL
             {
                 var transcriptItems = youTubeTranscriptApi
                     .GetTranscript(youTubeVideoId).ToList();
-
-
                 foreach (var transcriptItem in transcriptItems)
                 {
                     Console.WriteLine(transcriptItem.Text);
@@ -26,19 +24,14 @@ namespace BLL
                 return transcriptItems;
             }
         }
-
         public static string GetYouTubeVideoId(string youtubeLink)
         {
-
             Regex regex = new Regex(@"(?:youtube\.com\/(?:[^\/\n\s]+\/\S+\/|(?:v|e(?:mbed)?)\/|\S*?[?&]v=)|youtu\.be\/)([a-zA-Z0-9_-]{11})", RegexOptions.IgnoreCase);
-
             Match match = regex.Match(youtubeLink);
-
             if (match.Success)
             {
                 return match.Groups[1].Value;
             }
-
             return null;
         }
     }

@@ -21,7 +21,7 @@ namespace EnglishApp.Controllers
             _mapper = mapper;
         }
 
-        [HttpGet("/GetInfo/{word}")]     ///*&{sentence}*/
+        [HttpGet("/GetInfo/{word}")]    
         public async Task<IActionResult> GetDefinitions(string word/*, string sentence*/)
         {
 
@@ -41,13 +41,7 @@ namespace EnglishApp.Controllers
                         definitions.Add(definition);
                     }
                 }
-                return Ok(definitions);
-
-            
-            //var bestDefinition = new DefinitionDto();
-            //bestDefinition.Definition = await WordService.GetBestDefinition(word, sentence, definitions.Select(x => x.Definition).ToList());
-            //definitions.Insert(0, bestDefinition);      
-            
+                return Ok(definitions); 
         }
     }
 }

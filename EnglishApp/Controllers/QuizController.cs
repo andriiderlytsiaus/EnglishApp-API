@@ -26,11 +26,6 @@ namespace EnglishApp.Controllers
                 return BadRequest(ModelState);
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
-            //if (_userRepository.GetUsers().Any(x => x.Email == quizDto.Email))
-            //{
-            //    ModelState.AddModelError("", "User with the same email already exists");
-            //    return StatusCode(422, ModelState);
-            //}
             var quiz = _mapper.Map<Quiz>(quizDto);
             if (!_QuizRepository.AddQuiz(quiz))
             {

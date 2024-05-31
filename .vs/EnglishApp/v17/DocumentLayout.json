@@ -3,20 +3,152 @@
   "WorkspaceRootPath": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\bll\\wordmodels\\definition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|solutionrelative:bll\\wordmodels\\definition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\bll\\wordmodels\\definitioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|solutionrelative:bll\\wordmodels\\definitioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\bll\\wordmodels\\meaning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|solutionrelative:bll\\wordmodels\\meaning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\bll\\wordmodels\\word1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|solutionrelative:bll\\wordmodels\\word1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\bll\\getbestdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|solutionrelative:bll\\getbestdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\bll\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|solutionrelative:bll\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\bll\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|solutionrelative:bll\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\interface\\iquizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\interface\\iquizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\interface\\ilessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\interface\\ilessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\interface\\isavedwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\interface\\isavedwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\interface\\iwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\interface\\iwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\data\\englishappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\data\\englishappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\controllers\\savedwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\controllers\\savedwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\controllers\\wordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\controllers\\wordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\dto\\worddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\dto\\worddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\models\\transcriptline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\models\\transcriptline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\models\\savedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\models\\savedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\models\\worddefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\models\\worddefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\models\\wordmeaning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\models\\wordmeaning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\repository\\lessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\repository\\lessonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\repository\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\repository\\quizrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\repository\\savedwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\repository\\savedwordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\repository\\wordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\repository\\wordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\bll\\youtubetranscriptapi\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9B563-F301-4FD8-AD15-7DF5D3295AAD}|BLL\\BLL.csproj|solutionrelative:bll\\youtubetranscriptapi\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\englishapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\englishapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|c:\\users\\andri\\desktop\\englishapp\\englishapp-api\\englishapp\\dto\\credentialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12675EA2-0592-4F03-A12D-B7767811F56E}|EnglishApp\\EnglishApp.csproj|solutionrelative:englishapp\\dto\\credentialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +158,484 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Definition.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\WordModels\\Definition.cs",
+              "RelativeDocumentMoniker": "BLL\\WordModels\\Definition.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\WordModels\\Definition.cs",
+              "RelativeToolTip": "BLL\\WordModels\\Definition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:40:56.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefinitionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\WordModels\\DefinitionInfo.cs",
+              "RelativeDocumentMoniker": "BLL\\WordModels\\DefinitionInfo.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\WordModels\\DefinitionInfo.cs",
+              "RelativeToolTip": "BLL\\WordModels\\DefinitionInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:40:56.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Meaning.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\WordModels\\Meaning.cs",
+              "RelativeDocumentMoniker": "BLL\\WordModels\\Meaning.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\WordModels\\Meaning.cs",
+              "RelativeToolTip": "BLL\\WordModels\\Meaning.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:40:55.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Word1.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\WordModels\\Word1.cs",
+              "RelativeDocumentMoniker": "BLL\\WordModels\\Word1.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\WordModels\\Word1.cs",
+              "RelativeToolTip": "BLL\\WordModels\\Word1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:40:53.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetBestDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\GetBestDefinition.cs",
+              "RelativeDocumentMoniker": "BLL\\GetBestDefinition.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\GetBestDefinition.cs",
+              "RelativeToolTip": "BLL\\GetBestDefinition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:40:41.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WordService.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\WordService.cs",
+              "RelativeDocumentMoniker": "BLL\\WordService.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\WordService.cs",
+              "RelativeToolTip": "BLL\\WordService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:38:22.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnglishAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Data\\EnglishAppContext.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Data\\EnglishAppContext.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Data\\EnglishAppContext.cs",
+              "RelativeToolTip": "EnglishApp\\Data\\EnglishAppContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:08:26.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SavedWordController.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Controllers\\SavedWordController.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Controllers\\SavedWordController.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Controllers\\SavedWordController.cs",
+              "RelativeToolTip": "EnglishApp\\Controllers\\SavedWordController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:08:08.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Controllers\\LessonController.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Controllers\\LessonController.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Controllers\\LessonController.cs",
+              "RelativeToolTip": "EnglishApp\\Controllers\\LessonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:36:25.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IWordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Interface\\IWordRepository.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Interface\\IWordRepository.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Interface\\IWordRepository.cs",
+              "RelativeToolTip": "EnglishApp\\Interface\\IWordRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:35:45.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Program.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Program.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Program.cs",
+              "RelativeToolTip": "EnglishApp\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:36:25.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISavedWordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Interface\\ISavedWordRepository.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Interface\\ISavedWordRepository.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Interface\\ISavedWordRepository.cs",
+              "RelativeToolTip": "EnglishApp\\Interface\\ISavedWordRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:35:50.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILessonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Interface\\ILessonRepository.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Interface\\ILessonRepository.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Interface\\ILessonRepository.cs",
+              "RelativeToolTip": "EnglishApp\\Interface\\ILessonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:08:49.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LessonService.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\LessonService.cs",
+              "RelativeDocumentMoniker": "BLL\\LessonService.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\LessonService.cs",
+              "RelativeToolTip": "BLL\\LessonService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:10:26.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Controllers\\QuizController.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "EnglishApp\\Controllers\\QuizController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:08:05.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "EnglishApp\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Controllers\\UserController.cs",
               "RelativeToolTip": "EnglishApp\\Controllers\\UserController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAYwDYAAAAAAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T02:51:43.744Z"
+              "WhenOpened": "2024-05-07T02:51:43.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "IQuizRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Interface\\IQuizRepository.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Interface\\IQuizRepository.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Interface\\IQuizRepository.cs",
+              "RelativeToolTip": "EnglishApp\\Interface\\IQuizRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:10:01.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WordController.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Controllers\\WordController.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Controllers\\WordController.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Controllers\\WordController.cs",
+              "RelativeToolTip": "EnglishApp\\Controllers\\WordController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:07:38.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Dto\\UserDto.cs",
+              "RelativeToolTip": "EnglishApp\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:36:04.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WordDto.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Dto\\WordDto.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Dto\\WordDto.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Dto\\WordDto.cs",
+              "RelativeToolTip": "EnglishApp\\Dto\\WordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:36:01.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Helper\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Helper\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Helper\\MappingProfiles.cs",
+              "RelativeToolTip": "EnglishApp\\Helper\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:35:56.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TranscriptLine.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Models\\TranscriptLine.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Models\\TranscriptLine.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Models\\TranscriptLine.cs",
+              "RelativeToolTip": "EnglishApp\\Models\\TranscriptLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:35:42.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SavedWord.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Models\\SavedWord.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Models\\SavedWord.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Models\\SavedWord.cs",
+              "RelativeToolTip": "EnglishApp\\Models\\SavedWord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:35:41.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Models\\Quiz.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Models\\Quiz.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Models\\Quiz.cs",
+              "RelativeToolTip": "EnglishApp\\Models\\Quiz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:35:40.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Models\\Question.cs",
+              "RelativeToolTip": "EnglishApp\\Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:35:39.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Models\\Lesson.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Models\\Lesson.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Models\\Lesson.cs",
+              "RelativeToolTip": "EnglishApp\\Models\\Lesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:35:37.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WordDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Models\\WordDefinition.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Models\\WordDefinition.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Models\\WordDefinition.cs",
+              "RelativeToolTip": "EnglishApp\\Models\\WordDefinition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:35:35.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WordMeaning.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Models\\WordMeaning.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Models\\WordMeaning.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Models\\WordMeaning.cs",
+              "RelativeToolTip": "EnglishApp\\Models\\WordMeaning.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:35:33.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SavedWordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Repository\\SavedWordRepository.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Repository\\SavedWordRepository.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Repository\\SavedWordRepository.cs",
+              "RelativeToolTip": "EnglishApp\\Repository\\SavedWordRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:10:01.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\appsettings.json",
               "RelativeDocumentMoniker": "EnglishApp\\appsettings.json",
               "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\appsettings.json",
               "RelativeToolTip": "EnglishApp\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-05T04:36:24.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LessonController.cs",
-              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Controllers\\LessonController.cs",
-              "RelativeDocumentMoniker": "EnglishApp\\Controllers\\LessonController.cs",
-              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Controllers\\LessonController.cs",
-              "RelativeToolTip": "EnglishApp\\Controllers\\LessonController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAQwCoAAAAcAAAA",
+              "DocumentIndex": 32,
+              "Title": "WordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Repository\\WordRepository.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Repository\\WordRepository.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Repository\\WordRepository.cs",
+              "RelativeToolTip": "EnglishApp\\Repository\\WordRepository.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T04:36:25.107Z"
+              "WhenOpened": "2024-05-20T23:09:48.723Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Program.cs",
-              "RelativeDocumentMoniker": "EnglishApp\\Program.cs",
-              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Program.cs",
-              "RelativeToolTip": "EnglishApp\\Program.cs",
+              "DocumentIndex": 31,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "EnglishApp\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:09:53.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Api.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\YoutubeTranscriptApi\\Api.cs",
+              "RelativeDocumentMoniker": "BLL\\YoutubeTranscriptApi\\Api.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\BLL\\YoutubeTranscriptApi\\Api.cs",
+              "RelativeToolTip": "BLL\\YoutubeTranscriptApi\\Api.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:17:22.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "QuizRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Repository\\QuizRepository.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Repository\\QuizRepository.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Repository\\QuizRepository.cs",
+              "RelativeToolTip": "EnglishApp\\Repository\\QuizRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T23:09:34.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LessonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Repository\\LessonRepository.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Repository\\LessonRepository.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Repository\\LessonRepository.cs",
+              "RelativeToolTip": "EnglishApp\\Repository\\LessonRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:19:03.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EnglishApp",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\EnglishApp.csproj",
+              "RelativeDocumentMoniker": "EnglishApp\\EnglishApp.csproj",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\EnglishApp.csproj",
+              "RelativeToolTip": "EnglishApp\\EnglishApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T16:38:32.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CredentialsDto.cs",
+              "DocumentMoniker": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Dto\\CredentialsDto.cs",
+              "RelativeDocumentMoniker": "EnglishApp\\Dto\\CredentialsDto.cs",
+              "ToolTip": "C:\\Users\\andri\\Desktop\\EnglishApp\\EnglishApp-API\\EnglishApp\\Dto\\CredentialsDto.cs",
+              "RelativeToolTip": "EnglishApp\\Dto\\CredentialsDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T04:36:25.11Z"
+              "WhenOpened": "2024-05-20T23:08:43.958Z"
             }
           ]
         }

@@ -41,33 +41,21 @@ namespace BLL
                 client.Dispose();
             }
         }
-
         public static async Task<string> GetBestDefinition(string wordString,
             string sentence, ICollection<string> definitions)
         {
             using (HttpClient httpClient = new HttpClient())
             {
-                // Set the base URL of your API
                 string apiUrl = "http://127.0.0.1:5000/find_definition";
-
-                // Prepare the data as a JSON object
                 var data = new
                 {
                     word = wordString,
                     sentence = sentence,
                     definitions = definitions
                 };
-
-                // Convert the data to JSON
                 string jsonData = Newtonsoft.Json.JsonConvert.SerializeObject(data);
-
-                // Create a StringContent object with the JSON data
                 var content = new StringContent(jsonData, System.Text.Encoding.UTF8, "application/json");
-
-                // Make the POST request
                 HttpResponseMessage response = await httpClient.PostAsync(apiUrl, content);
-
-                // Check if the request was successful (status code 200)
                 if (response.IsSuccessStatusCode)
                 {
                     return await response.Content.ReadAsStringAsync();

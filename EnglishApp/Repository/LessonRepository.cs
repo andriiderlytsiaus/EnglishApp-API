@@ -13,24 +13,21 @@ namespace EnglishApp.Repository
         {
             _context = context;
         }
-
         public bool AddRating(int lessonId, string rating)
         {
             var lesson = GetLesson(lessonId);
             if(rating == "up")
                 lesson.Rating++;
-            else /*if (rating == "down")*/
+            else 
                 lesson.Rating--;
             _context.Lessons.Update(lesson);
             return Save();
         }
-
         public bool AddTheory(Lesson lesson)
         {
             _context.Lessons.Update(lesson);
             return Save();
         }
-
         public bool CreateLesson(Lesson lesson)
         {
             _context.Lessons.Add(lesson);
@@ -42,7 +39,6 @@ namespace EnglishApp.Repository
             _context.Lessons.Remove(lesson);
             return Save();
         }
-
         public Lesson GetLesson(int id)
         {
             Lesson lesson = _context.Lessons
@@ -54,29 +50,24 @@ namespace EnglishApp.Repository
 
             return lesson;
         }
-
         public ICollection<Lesson> GetLessons()
         {
             return _context.Lessons.ToList();
         }
-
         public ICollection<Lesson> GetLessonsByUser(int userId)
         {
             return _context.Lessons.Where(x => x.UserId == userId).ToList();
         }
-
         public ICollection<Lesson> GetTopRatedLessons()
         {
             return GetLessons().OrderByDescending(x => x.Rating).Take(7).ToList();
         }
-
         public bool LessonExists(int id)
         {
             if (_context.Lessons.Any(x => x.Id == id))
                 return true;
             else return false;
         }
-
         public bool Save()
         {
             var saved = _context.SaveChanges();

@@ -15,7 +15,6 @@ namespace EnglishApp.Repository
         {
             _context.Quizzes.Add(quiz);
             return Save();
-            
         }
         public bool Save()
         {
